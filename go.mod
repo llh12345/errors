@@ -1,4 +1,4 @@
-module github.com/llh12345
+module github.com/llh12345/errors
 
 go 1.18
 
